@@ -14,19 +14,19 @@ I love playing destroy and move the code to squeeze as much learning as possible
 
 Create a nice and clean react project. You can add the webpack modules you need although react-lite integrates some basics. You can also create the project using EsBuild.
 
-[react-lite-app](https://www.npmjs.com/package/react-lite-app)
+[React Lite App](https://www.npmjs.com/package/react-lite-app)
 
 ### Value Theme Return
 
 Returns a value depending on whether your browser has dark mode or light mode activated, it is super useful with Styled-Components for ReactJS, but you can also use it with JS Vanilla.
 
-[value-theme-return](https://www.npmjs.com/package/value-theme-return)
+[Value Theme Return](https://www.npmjs.com/package/value-theme-return)
 
 ### Chameleons for VueJS
 
 Create a beautiful cut effect to your fixed element and change its color with cut effect when scrolling. Zero dependecy.
 
-[chameleons-vue](https://www.npmjs.com/package/chameleons-vue)
+[Chameleons for Vue.JS](https://www.npmjs.com/package/chameleons-vue)
 
 ### My Portfolio & Web Site
 
@@ -81,13 +81,13 @@ These are my best skills. Although I have notion about other things
 
 # Follow me in
 
-[Elvis Ariel Gómez García - Front-End Web Developer Intern - Elaniin | LinkedIn](https://www.linkedin.com/in/elvisgmz/)
+[LinkedIn](https://www.linkedin.com/in/elvisgmz/)
 
-[Elvis Gomez on CodePen](https://codepen.io/ElvisGmz_/)
+[CodePen](https://codepen.io/ElvisGmz_/)
 
 # Buy me a Coffe
 
-[](https://ko-fi.com/elvisgmz)
+[Give a coffee](https://ko-fi.com/elvisgmz)
 
 # My Stats
 
