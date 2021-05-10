@@ -91,8 +91,8 @@ These are my best skills. Although I have notion about other things
 
 # My Stats
 
-[https://github-readme-stats.vercel.app/api?username=ElvisGmz&show_icons=true](https://github-readme-stats.vercel.app/api?username=ElvisGmz&show_icons=true)
+![https://github-readme-stats.vercel.app/api?username=ElvisGmz&show_icons=true](https://github-readme-stats.vercel.app/api?username=ElvisGmz&show_icons=true)
 
-[https://github-readme-stats.vercel.app/api/top-langs/?username=ElvisGmz](https://github-readme-stats.vercel.app/api/top-langs/?username=ElvisGmz)
+![https://github-readme-stats.vercel.app/api/top-langs/?username=ElvisGmz](https://github-readme-stats.vercel.app/api/top-langs/?username=ElvisGmz)
 
-[https://gpvc.arturio.dev/ElvisGmz](https://gpvc.arturio.dev/ElvisGmz)
+![https://gpvc.arturio.dev/ElvisGmz](https://gpvc.arturio.dev/ElvisGmz)
