@@ -1,3 +1,4 @@
+<a href="https://app.daily.dev/ElvisGmz"><img src="https://api.daily.dev/devcards/42d94c01a00e45919fb84156649556d2.png?r=ky7" width="400" alt="Elvis Ariel Gómez García's Dev Card"/></a>
 # Hi there 👋, my name is Elvis
 > I am Front-end 👨🏻‍💻 Web Developer
 I love playing destroy and move the code to squeeze as much learning as possible and apply it to create a better future
